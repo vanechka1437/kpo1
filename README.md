@@ -54,8 +54,8 @@ src/main/java/org/example/
 
 ### Инструкция по запуску
 ```
-git clone <URL вашего репозитория>
-cd <название проекта>
+git clone https://github.com/vanechka1437/kpo1.git
+cd kpo1
 mvn clean package
 java -jar target/zoo.jar
 ```
