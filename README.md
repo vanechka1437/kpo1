@@ -32,7 +32,8 @@
 
 ### Структура решения 
 
-```src/main/java/org/example/
+```
+src/main/java/org/example/
 ├── Animal.java            // Базовый класс для животных
 ├── Herbo.java             // Абстрактный класс для травоядных
 ├── Predator.java          // Абстрактный класс для хищников
@@ -48,4 +49,5 @@
 ├── InventoryManager.java  // Менеджер для учета инвентаризации (реализация IInventoryManager)
 ├── ReportService.java     // Сервис формирования отчётов (реализация IReportService)
 ├── ConsoleUI.java         // Компонент для консольного взаимодействия с пользователем
-└── ZooApplication.java    // Главный класс приложения с методом main```
+└── ZooApplication.java    // Главный класс приложения с методом main
+```
