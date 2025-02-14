@@ -51,3 +51,12 @@ src/main/java/org/example/
 ├── ConsoleUI.java         // Компонент для консольного взаимодействия с пользователем
 └── ZooApplication.java    // Главный класс приложения с методом main
 ```
+
+### Инструкция по запуску
+```
+git clone <URL вашего репозитория>
+cd zoo
+mvn clean package
+java -jar target/zoo.jar
+```
+
