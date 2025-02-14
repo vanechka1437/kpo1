@@ -55,7 +55,7 @@ src/main/java/org/example/
 ### Инструкция по запуску
 ```
 git clone <URL вашего репозитория>
-cd zoo
+cd <название проекта>
 mvn clean package
 java -jar target/zoo.jar
 ```
